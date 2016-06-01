@@ -6,6 +6,7 @@ Contributors:
   Ezanotto
   Zicamc(aka ezequielc)
   
-TODO:
-    1. Página de Login
-    2. Modelo de dados
+##TODO:
+  * Página de Login
+  * Casos de Uso
+  * Diagrama de Classes (Jogadores, Partidas, ... )
