@@ -3,8 +3,8 @@
 Projeto:
 
 Contributors:
-  *Ezanotto
-  *Zicamc (aka ezequielc)
+  * Ezanotto
+  * Zicamc (aka ezequielc)
   
 ##TODO:
   * Página de Login
