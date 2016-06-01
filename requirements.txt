@@ -1,4 +1,0 @@
-Django
-MySQL-python
-distribute
-wsgiref
