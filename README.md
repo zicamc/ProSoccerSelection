@@ -1,18 +1,29 @@
+----------------------------------------------------------------------------------------------------------------------
+    ____  ____  ____     _____ ____  ______________________     _____ ________    __________________________  _   __
+   / __ \/ __ \/ __ \   / ___// __ \/ ____/ ____/ ____/ __ \   / ___// ____/ /   / ____/ ____/_  __/  _/ __ \/ | / /
+  / /_/ / /_/ / / / /   \__ \/ / / / /   / /   / __/ / /_/ /   \__ \/ __/ / /   / __/ / /     / /  / // / / /  |/ / 
+ / ____/ _, _/ /_/ /   ___/ / /_/ / /___/ /___/ /___/ _, _/   ___/ / /___/ /___/ /___/ /___  / / _/ // /_/ / /|  /  
+/_/   /_/ |_|\____/   /____/\____/\____/\____/_____/_/ |_|   /____/_____/_____/_____/\____/ /_/ /___/\____/_/ |_/   
+                                                                                                                    
+----------------------------------------------------------------------------------------------------------------------
+                                                                                                               
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
-
-
-Welcome to your Django project on Cloud9 IDE!
+Welcome to Our Django project on Cloud9 IDE for PRO SOCCER SELECTION!
 
 Your Django project is already fully setup. Just click the "Run" button to start
 the application. On first run you will be asked to create an admin user. You can
 access your application from 'https://prosoccerselection-ezequielc.c9users.io/' and the admin page from 
 'https://prosoccerselection-ezequielc.c9users.io/admin'.
+
+## Configuration
+
+1) Admin access:
+* User: admin
+* Password: prosoccerselection
+
+2) Access the site:
+* **Admin**: https://prosoccerselection-ezequielc.c9users.io/admin
+* **Polls**: https://prosoccerselection-ezequielc.c9users.io/polls
 
 ## Starting from the Terminal
 
